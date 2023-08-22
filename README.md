@@ -2,6 +2,7 @@
 Welcome to the Dice App Releases repository! Here, you'll find all the latest updates, improvements, and enhancements for our innovative and versatile dice rolling application. Whether you're a tabletop gamer, a role-playing enthusiast, or simply in need of a reliable random number generator, our app has got you covered.
 
 Features:
+
 🎲 Intuitive Interface: Our user-friendly interface ensures a seamless and enjoyable experience, allowing you to roll various types of dice with just a tap or click.
 
 🎲 Realistic Animations: Enjoy realistic physics-based dice rolling animations that bring an authentic tabletop feel to your virtual rolls.
